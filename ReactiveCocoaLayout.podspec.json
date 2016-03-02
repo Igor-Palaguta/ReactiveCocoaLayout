@@ -14,7 +14,7 @@
   "description": "ReactiveCocoaLayout is a framework for describing Cocoa and Cocoa Touch layouts in a reactive way, based on ReactiveCocoa.",
   "requires_arc": true,
   "platforms": {
-    "ios": "6.0",
+    "ios": "8.0",
     "osx": "10.7"
   },
   "source_files": "ReactiveCocoaLayout/*.{h,m}",
