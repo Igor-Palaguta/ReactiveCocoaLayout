@@ -1,6 +1,6 @@
 {
   "name": "ReactiveCocoaLayout",
-  "version": "0.4",
+  "version": "0.5.2",
   "summary": "Reactive layout framework built on top of ReactiveCocoa.",
   "homepage": "https://github.com/ReactiveCocoa/ReactiveCocoaLayout",
   "authors": {
@@ -8,7 +8,7 @@
   },
   "source": {
     "git": "https://github.com/ReactiveCocoa/ReactiveCocoaLayout.git",
-    "tag": "0.4"
+    "tag": "0.5.2"
   },
   "license": "MIT",
   "description": "ReactiveCocoaLayout is a framework for describing Cocoa and Cocoa Touch layouts in a reactive way, based on ReactiveCocoa.",
